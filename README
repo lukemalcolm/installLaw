@@ -1,0 +1,27 @@
+=== forTheLoveOfCode === 
+An example contract for Interactive Installation Productions.
+
+Firstly: You need a lawyer.
+Secondly: You need a lawyer!
+Thirdly: This project does NOT replace you getting a lawyer.
+
+However, it is there to help raise specific issues related to interactive installation productions 
+and perhaps save time by giving examples of how they can be overcome.
+
+A solid amount of money went into the initial development of this document.  It is released for the
+'For the love of code', so that we can all spend more time in our creative pursuits and less time 
+doing administration.
+
+HOW TO:
+
+SOURCE:
+The contract is written using LaTeX to enable easy modification and versioning of the contract 
+over time.
+
+BUILDS:
+In the BUILD directory you will find binary versions, including PDF.
+
+
+
+
+
