@@ -8,17 +8,16 @@ Thirdly: This project does NOT replace you getting a lawyer.
 
 However, it is there to help raise specific issues related to interactive installation productions and perhaps save time by giving examples of how they can be overcome.
 
-A solid amount of money went into the initial development of this document.  It is released for the use of all like minded individuals, so that we can all spend more time in our creative pursuits and less time 
-doing administration.
+A solid amount of money went into the initial development of this document.  It is released for the use of all like minded individuals, so that we can all spend more time in our creative pursuits and less time doing administration.
 
 HOW TO:
 
+BUILDS:
+A pdf build version is in the BIN folder.
+
 SOURCE:
 The contract is written using LaTeX to enable easy modification and versioning of the contract 
-over time.
-
-BUILDS:
-In the BUILD directory you will find binary versions, including PDF.
+over time.  It is located in the SRC folder.
 
 === NO WARRANTY ===
 The installLaw document and source files are distributed in the hope that it will be useful,
