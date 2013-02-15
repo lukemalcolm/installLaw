@@ -1,29 +1,29 @@
 === installLaw === 
-An example contract for Interactive Installation Productions.
+An example contract for creative installation/productions.
 
-A few things you should know...
-Firstly: You need a lawyer.
-Secondly: You need a lawyer!
-Thirdly: This project does NOT replace you getting a lawyer.
+While this document is not there to replace having a lawyer, it is there to help raise specific issues related to interactive/creative installation productions and perhaps save time by giving examples of how they can be overcome.
 
-However, it is there to help raise specific issues related to interactive installation productions and perhaps save time by giving examples of how they can be overcome.
+A solid amount of money went into the initial development of this document.  It's released for the use of like minded individuals, so that we can all spend more time in creative pursuits and less time doing paperwork.
 
-A solid amount of money went into the initial development of this document.  It is released for the use of all like minded individuals, so that we can all spend more time in our creative pursuits and less time doing administration.
+== HOW TO ==
+The contract is constructed in LaTeX, but a compiled version is available in PDF.
 
-HOW TO:
+writeLaTeX is an online editor for LaTeX that allows you to very easily edit the contract.
+http://www.writelatex.com/ 
 
 BUILDS:
-A pdf build version is in the BIN folder.
+A PDF version is in the BIN folder.
 
 SOURCE:
 The contract is written using LaTeX to enable easy modification and versioning of the contract 
 over time.  It is located in the SRC folder.
 
 === NO WARRANTY ===
+You should really take legal advice when constructing a contract.
+
 The installLaw document and source files are distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 
 
